@@ -1,2 +1,4 @@
 # Win11ProUpgrade
-Hey this isnt a virus for once!
+Idk I found this and made it a bat its open src so idk ig 
+
+Dont accuse me its open fucking source you will look like a dumbass.
